@@ -1,0 +1,878 @@
+[
+  {
+    "name": "Biologia",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 575171,
+            "info": "Kategoria: aktywność\nData: 2024-09-19 (czw.)\nNauczyciel: Mirowska Magdalena\nLicz do średniej: tak\nWaga: 1\nDodał: Mirowska Magdalena\n\nKomentarz: praca na lekcji ćwiczenia 5.2",
+            "value": "5"
+          },
+          {
+            "id": 6827537,
+            "info": "Kategoria: kartkówka\nData: 2024-11-29 (pt.)\nNauczyciel: Mirowska Magdalena\nLicz do średniej: tak\nWaga: 2\nDodał: Mirowska Magdalena\n\nKomentarz: ekologia ",
+            "value": "4"
+          },
+          {
+            "id": 11931340,
+            "info": "Kategoria: sprawdzian,\nData: 2025-01-18 (sob.)\nNauczyciel: Mirowska Magdalena\nLicz do średniej: tak\nWaga: 3\nDodał: Mirowska Magdalena\n\nKomentarz: ekologia",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 12397583,
+            "info": "Kategoria: śródroczna\nData: 2025-01-22 (śr.)\nNauczyciel: Mirowska Magdalena\nLicz do średniej: nie\nDodał: Mirowska Magdalena\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Chemia",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 4033570,
+            "info": "Kategoria: kartkówka\nData: 2024-10-30 (śr.)\nNauczyciel: Grochowska Barbara\nLicz do średniej: tak\nWaga: 3\nDodał: Grochowska Barbara\n\nKomentarz: alkohole, aldehydy, ketony",
+            "value": "5"
+          },
+          {
+            "id": 8298224,
+            "info": "Kategoria: praca w grupach\nData: 2024-12-12 (czw.)\nNauczyciel: Grochowska Barbara\nLicz do średniej: tak\nWaga: 2\nDodał: Grochowska Barbara\n",
+            "value": "3"
+          },
+          {
+            "id": 10197775,
+            "info": "Kategoria: sprawdzian\nData: 2025-01-08 (śr.)\nNauczyciel: Grochowska Barbara\nLicz do średniej: tak\nWaga: 5\nDodał: Grochowska Barbara\n",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 12343906,
+            "info": "Kategoria: śródroczna\nData: 2025-01-22 (śr.)\nNauczyciel: Grochowska Barbara\nLicz do średniej: nie\nDodał: Grochowska Barbara\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Dodatkowy język angielski zawodowy",
+    "semester": [
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Doradztwo zawodowe",
+    "semester": [
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Fizyka",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 849562,
+            "info": "Kategoria: kartkówka\nData: 2024-09-24 (wt.)\nNauczyciel: Grzelak Julia\nLicz do średniej: tak\nWaga: 1\nDodał: Grzelak Julia\n\nKomentarz: Polaryzacja, efekt Dopplera",
+            "value": "3"
+          },
+          {
+            "id": 3162894,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-10-22 (wt.)\nNauczyciel: Grzelak Julia\nLicz do średniej: tak\nWaga: 1\nDodał: Grzelak Julia\n\nKomentarz: Fale, czy cząstki?",
+            "value": "5"
+          },
+          {
+            "id": 4977931,
+            "info": "Kategoria: kartkówka\nData: 2024-11-12 (wt.)\nNauczyciel: Grzelak Julia\nLicz do średniej: tak\nWaga: 1\nDodał: Grzelak Julia\n\nKomentarz: Efekt cieplarniany",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": 3
+      },
+      {
+        "grades": [
+          {
+            "id": 9913651,
+            "info": "Kategoria: śródroczna\nData: 2025-01-07 (wt.)\nNauczyciel: Grzelak Julia\nLicz do średniej: nie\nDodał: Grzelak Julia\n",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Geografia",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 3804450,
+            "info": "Kategoria: kartkówka\nData: 2024-10-28 (pon.)\nNauczyciel: Buczek Anna\nLicz do średniej: tak\nWaga: 3\nDodał: Buczek Anna\n\nKomentarz: Krainy geograficzne Polski",
+            "value": "4"
+          },
+          {
+            "id": 3802566,
+            "info": "Kategoria: karty pracy - praca na lekcji\nData: 2024-10-28 (pon.)\nNauczyciel: Buczek Anna\nLicz do średniej: tak\nWaga: 2\nDodał: Buczek Anna\n\nKomentarz: Klimat w Polsce ",
+            "value": "5"
+          },
+          {
+            "id": 5118926,
+            "info": "Kategoria: sprawdzian wiadomości\nData: 2024-11-13 (śr.)\nNauczyciel: Buczek Anna\nLicz do średniej: tak\nWaga: 5\nDodał: Buczek Anna\n\nKomentarz: środowisko przyrodnicze Polski - część I",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 11841359,
+            "info": "Kategoria: śródroczna\nData: 2025-01-17 (pt.)\nNauczyciel: Buczek Anna\nLicz do średniej: nie\nDodał: Buczek Anna\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Historia",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 6359606,
+            "info": "Kategoria: praca domowa\nData: 2024-11-26 (wt.)\nNauczyciel: Pankratz Katarzyna\nLicz do średniej: tak\nWaga: 1\nDodał: Pankratz Katarzyna\n",
+            "value": "5"
+          },
+          {
+            "id": 6357890,
+            "info": "Kategoria: praca domowa\nData: 2024-11-26 (wt.)\nNauczyciel: Pankratz Katarzyna\nLicz do średniej: tak\nWaga: 1\nDodał: Pankratz Katarzyna\n",
+            "value": "5"
+          },
+          {
+            "id": 11237684,
+            "info": "Kategoria: sprawdzian\nData: 2025-01-14 (wt.)\nNauczyciel: Pankratz Katarzyna\nLicz do średniej: tak\nWaga: 5\nDodał: Pankratz Katarzyna\n",
+            "value": "2"
+          }
+        ],
+        "tempAverage": null,
+        "average": 3
+      },
+      {
+        "grades": [
+          {
+            "id": 12481613,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Pankratz Katarzyna\nLicz do średniej: nie\nDodał: Pankratz Katarzyna\n",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Informatyka",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 2885847,
+            "info": "Kategoria: Test diagnostyczny\nData: 2024-10-18 (pt.)\nNauczyciel: Kwiesielewicz Grzegorz\nLicz do średniej: nie\nDodał: Kwiesielewicz Grzegorz\n",
+            "value": "1"
+          },
+          {
+            "id": 4481766,
+            "info": "Kategoria: Kartkówka - Arkusz kalkulacyjny 1\nData: 2024-11-05 (wt.)\nNauczyciel: Kwiesielewicz Grzegorz\nLicz do średniej: tak\nWaga: 1\nDodał: Kwiesielewicz Grzegorz\n",
+            "value": "5"
+          },
+          {
+            "id": 11308093,
+            "info": "Kategoria: aktywność\nData: 2025-01-14 (wt.)\nNauczyciel: Kwiesielewicz Grzegorz\nLicz do średniej: tak\nWaga: 1\nDodał: Kwiesielewicz Grzegorz\n",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 5
+      },
+      {
+        "grades": [
+          {
+            "id": 12490211,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Kwiesielewicz Grzegorz\nLicz do średniej: nie\nDodał: Kwiesielewicz Grzegorz\n",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Język angielski",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 1534599,
+            "info": "Kategoria: kartkówka\nData: 2024-10-02 (śr.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: słownictwo - człowiek",
+            "value": "4"
+          },
+          {
+            "id": 3010542,
+            "info": "Kategoria: praca pisemna\nData: 2024-10-21 (pon.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: wpis na blogu",
+            "value": "3"
+          },
+          {
+            "id": 4582973,
+            "info": "Kategoria: kartkówka\nData: 2024-11-06 (śr.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: miejsce zamieszkania - słownictwo cz. 1",
+            "value": "4"
+          },
+          {
+            "id": 5167593,
+            "info": "Kategoria: kartkówka\nData: 2024-11-13 (śr.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: miejsce zamieszkania cz.2",
+            "value": "5"
+          },
+          {
+            "id": 10246359,
+            "info": "Kategoria: aktywność\nData: 2025-01-08 (śr.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 1\nDodał: Pel Karolina\n",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 12452398,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Pel Karolina\nLicz do średniej: nie\nDodał: Pel Karolina\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": 5,
+        "average": null
+      },
+      {
+        "grades": [
+          {
+            "id": 13028383,
+            "info": "Kategoria: kartkówka\nData: 2025-02-03 (pon.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: edukacja cz.2",
+            "value": "5"
+          },
+          {
+            "id": 12937031,
+            "info": "Kategoria: aktywność\nData: 2025-02-03 (pon.)\nNauczyciel: Pel Karolina\nDodał: Pel Karolina\n",
+            "value": "+"
+          },
+          {
+            "id": 13293117,
+            "info": "Kategoria: praca pisemna\nData: 2025-02-05 (śr.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: edukacja - wpis na blogu",
+            "value": "5"
+          },
+          {
+            "id": 12564613,
+            "info": "Kategoria: kartkówka\nData: 2025-02-07 (pt.)\nNauczyciel: Pel Karolina\nLicz do średniej: tak\nWaga: 2\nDodał: Pel Karolina\n\nKomentarz: słownictwo edukacja cz.1",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Język niemiecki",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 1662556,
+            "info": "Kategoria: Dialog\nData: 2024-10-03 (czw.)\nNauczyciel: Zawadowska Jolanta\nLicz do średniej: tak\nWaga: 1\nDodał: Zawadowska Jolanta\n\nKomentarz: Was hast du in den Sommerferien gemacht?",
+            "value": "5"
+          },
+          {
+            "id": 9402270,
+            "info": "Kategoria: Kartkówka\nData: 2024-12-19 (czw.)\nNauczyciel: Zawadowska Jolanta\nLicz do średniej: tak\nWaga: 2\nDodał: Zawadowska Jolanta\n\nKomentarz: Konjunktiv II",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 12412112,
+            "info": "Kategoria: śródroczna\nData: 2025-01-22 (śr.)\nNauczyciel: Zawadowska Jolanta\nLicz do średniej: nie\nDodał: Zawadowska Jolanta\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Język polski",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 2421610,
+            "info": "Kategoria: sprawdzian z lektury\nData: 2024-10-13 (nd.)\nNauczyciel: Stępniak - Jankowska Monika\nDodał: Stępniak - Jankowska Monika\n\nKomentarz: Przedwiośnie",
+            "value": "nb"
+          },
+          {
+            "id": 3447257,
+            "info": "Kategoria: praca na lekcji\nData: 2024-10-24 (czw.)\nNauczyciel: Stępniak - Jankowska Monika\nLicz do średniej: tak\nWaga: 10\nDodał: Stępniak - Jankowska Monika\n",
+            "value": "5"
+          },
+          {
+            "id": 6337335,
+            "info": "Kategoria: Test historycznoliteracki\nData: 2024-11-25 (pon.)\nNauczyciel: Stępniak - Jankowska Monika\nLicz do średniej: tak\nWaga: 10\nDodał: Stępniak - Jankowska Monika\n\nKomentarz: Przedwiośnie",
+            "value": "3"
+          },
+          {
+            "id": 6597487,
+            "info": "Kategoria: Język polski w użyciu\nData: 2024-11-27 (śr.)\nNauczyciel: Stępniak - Jankowska Monika\nLicz do średniej: tak\nWaga: 10\nDodał: Stępniak - Jankowska Monika\n",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": 3
+      },
+      {
+        "grades": [
+          {
+            "id": 12433768,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Stępniak - Jankowska Monika\nLicz do średniej: nie\nDodał: Stępniak - Jankowska Monika\n",
+            "value": "3"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "M10 Programowanie aplikacji mobilnych",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 2559676,
+            "info": "Kategoria: kartkówka\nData: 2024-10-15 (wt.)\nNauczyciel: Klekot Agnieszka\nLicz do średniej: tak\nWaga: 2\nDodał: Klekot Agnieszka\n\nKomentarz: Pole tekstowe, seekBar oraz przycisk w Android Studio",
+            "value": "6"
+          },
+          {
+            "id": 4489711,
+            "info": "Kategoria: praca na lekcji\nData: 2024-11-05 (wt.)\nNauczyciel: Klekot Agnieszka\nLicz do średniej: tak\nWaga: 2\nDodał: Klekot Agnieszka\n\nKomentarz: aplikacje mobilne - hasło, lista",
+            "value": "6"
+          },
+          {
+            "id": 9999245,
+            "info": "Kategoria: praca na lekcji\nData: 2025-01-07 (wt.)\nNauczyciel: Klekot Agnieszka\nLicz do średniej: tak\nWaga: 2\nDodał: Klekot Agnieszka\n\nKomentarz: aplikacja świąteczna",
+            "value": "5"
+          },
+          {
+            "id": 12247070,
+            "info": "Kategoria: kartkówka\nData: 2025-01-21 (wt.)\nNauczyciel: Klekot Agnieszka\nLicz do średniej: tak\nWaga: 2\nDodał: Klekot Agnieszka\n\nKomentarz: ListView i TimePicker w Android Studio",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 6
+      },
+      {
+        "grades": [
+          {
+            "id": 12424828,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Klekot Agnieszka\nLicz do średniej: nie\nDodał: Klekot Agnieszka\n",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      {
+        "grades": [
+          {
+            "id": 13247935,
+            "info": "Ocena: brak zadania\nKategoria: projekt\nData: 2025-02-05 (śr.)\nNauczyciel: Klekot Agnieszka\nDodał: Klekot Agnieszka\n\nKomentarz: własna aplikacja mobilna w Android Studio",
+            "value": "bz"
+          },
+          {
+            "id": 13248137,
+            "info": "Ocena: brak zadania\nKategoria: praca na lekcji\nData: 2025-02-05 (śr.)\nNauczyciel: Klekot Agnieszka\nDodał: Klekot Agnieszka\n\nKomentarz: aplikacja mobilna - znaki zodiaku",
+            "value": "bz"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "M11 Zaawansowane aplikacje webowe",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 4594550,
+            "info": "Kategoria: zadanie\nData: 2024-11-06 (śr.)\nNauczyciel: Korkuś Tomasz\nLicz do średniej: tak\nWaga: 1\nDodał: Korkuś Tomasz\n\nKomentarz: react: stany - zad2 (dodanie)",
+            "value": "5"
+          },
+          {
+            "id": 11688198,
+            "info": "Kategoria: sprawdzian\nData: 2024-11-28 (czw.)\nNauczyciel: Korkuś Tomasz\nLicz do średniej: tak\nWaga: 1\nDodał: Korkuś Tomasz\n\nKomentarz: React - komponenty, propsy, osobny plik i  map()",
+            "value": "5"
+          },
+          {
+            "id": 11784791,
+            "info": "Kategoria: zadanie\nData: 2025-01-17 (pt.)\nNauczyciel: Korkuś Tomasz\nLicz do średniej: tak\nWaga: 1\nDodał: Korkuś Tomasz\n\nKomentarz: React - wakacje",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 2
+      },
+      {
+        "grades": [
+          {
+            "id": 12483777,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Korkuś Tomasz\nLicz do średniej: nie\nDodał: Korkuś Tomasz\n",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "M12 Testowanie i dokumentowanie aplikacji",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 12624322,
+            "info": "Kategoria: diag\nData: 2024-09-25 (śr.)\nNauczyciel: Jaskuła Monika\nDodał: Jaskuła Monika\n",
+            "value": "nb"
+          },
+          {
+            "id": 12626939,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-09-26 (czw.)\nNauczyciel: Jaskuła Monika\nDodał: Jaskuła Monika\n\nKomentarz: testy ",
+            "value": "nb"
+          },
+          {
+            "id": 12628360,
+            "info": "Kategoria: Test \nData: 2024-10-02 (śr.)\nNauczyciel: Jaskuła Monika\nLicz do średniej: tak\nWaga: 1\nDodał: Jaskuła Monika\n",
+            "value": "6"
+          },
+          {
+            "id": 12628008,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-10-17 (czw.)\nNauczyciel: Jaskuła Monika\nDodał: Jaskuła Monika\n",
+            "value": "nb"
+          },
+          {
+            "id": 12627126,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-10-18 (pt.)\nNauczyciel: Jaskuła Monika\nLicz do średniej: tak\nWaga: 1\nDodał: Jaskuła Monika\n",
+            "value": "6"
+          },
+          {
+            "id": 12627385,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-10-23 (śr.)\nNauczyciel: Jaskuła Monika\nLicz do średniej: tak\nWaga: 1\nDodał: Jaskuła Monika\n",
+            "value": "5"
+          },
+          {
+            "id": 12627848,
+            "info": "Kategoria: Praca na lekcji\nData: 2024-11-13 (śr.)\nNauczyciel: Jaskuła Monika\nLicz do średniej: tak\nWaga: 1\nDodał: Jaskuła Monika\n",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": 5
+      },
+      {
+        "grades": [
+          {
+            "id": 12628479,
+            "info": "Kategoria: śródroczna\nData: 2025-01-23 (czw.)\nNauczyciel: Jaskuła Monika\nLicz do średniej: nie\nDodał: Jaskuła Monika\n",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "M9 Programowanie obiektowe",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 11852924,
+            "info": "Kategoria: zadanie\nData: 2024-10-21 (pon.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n",
+            "value": "5"
+          },
+          {
+            "id": 9186615,
+            "info": "Kategoria: sprawdzian\nData: 2024-11-27 (śr.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n\nKomentarz: konto bankowe",
+            "value": "6"
+          },
+          {
+            "id": 11833764,
+            "info": "Kategoria: kartkówka\nData: 2025-01-13 (pon.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n",
+            "value": "6"
+          },
+          {
+            "id": 11854796,
+            "info": "Kategoria: aktywność\nData: 2025-01-17 (pt.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n\nKomentarz: Zadania przesyłane przez link żądania (2z - 5, 1z - 4, bz - 1)",
+            "value": "1"
+          },
+          {
+            "id": 11846896,
+            "info": "Kategoria: zadanie\nData: 2025-01-17 (pt.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n\nKomentarz: Zadanie 2 - Aplikacja konsolowa - Książka adresowa - 2024.10.21",
+            "value": "6"
+          },
+          {
+            "id": 11844258,
+            "info": "Kategoria: zadanie\nData: 2025-01-17 (pt.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n\nKomentarz: Zadanie 25.10.2024 - Konwersja jednostek z sformatowaną tabelą",
+            "value": "6"
+          },
+          {
+            "id": 12086494,
+            "info": "Kategoria: odpowiedź ustna\nData: 2025-01-20 (pon.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: tak\nWaga: 1\nDodał: Muszyński Krzysztof\n\nKomentarz: prezentacja projektu",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": 5
+      },
+      {
+        "grades": [
+          {
+            "id": 12544273,
+            "info": "Kategoria: śródroczna\nData: 2025-01-24 (pt.)\nNauczyciel: Muszyński Krzysztof\nLicz do średniej: nie\nDodał: Muszyński Krzysztof\n",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Matematyka",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 438284,
+            "info": "Kategoria: Sprawdzian\nData: 2024-09-18 (śr.)\nNauczyciel: Karolak Joanna\nLicz do średniej: tak\nWaga: 5\nDodał: Karolak Joanna\n\nKomentarz: funkcje trygonometryczne",
+            "value": "2"
+          },
+          {
+            "id": 3958741,
+            "info": "Kategoria: Sprawdzian\nData: 2024-10-30 (śr.)\nNauczyciel: Karolak Joanna\nLicz do średniej: tak\nWaga: 5\nDodał: Karolak Joanna\n\nKomentarz: geometria analityczna",
+            "value": "4"
+          },
+          {
+            "id": 5342206,
+            "info": "Kategoria: kartkówka\nData: 2024-11-15 (pt.)\nNauczyciel: Karolak Joanna\nLicz do średniej: tak\nWaga: 3\nDodał: Karolak Joanna\n\nKomentarz: ciąg arytmetyczny",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": 2
+      },
+      {
+        "grades": [
+          {
+            "id": 12366287,
+            "info": "Kategoria: śródroczna\nData: 2025-01-22 (śr.)\nNauczyciel: Karolak Joanna\nLicz do średniej: nie\nDodał: Karolak Joanna\n",
+            "value": "3"
+          }
+        ],
+        "tempAverage": 2,
+        "average": null
+      },
+      {
+        "grades": [
+          {
+            "id": 12886591,
+            "info": "Kategoria: Sprawdzian\nData: 2025-02-03 (pon.)\nNauczyciel: Karolak Joanna\nLicz do średniej: tak\nWaga: 5\nDodał: Karolak Joanna\n\nKomentarz: ciągi cz.1",
+            "value": "2"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Praktyka zawodowa",
+    "semester": [
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": 6, "average": null },
+      {
+        "grades": [
+          {
+            "id": 13131197,
+            "info": "Kategoria: Praktyka zawodowa\nData: 2025-02-03 (pon.)\nNauczyciel: Mirys Ryszard\nLicz do średniej: tak\nWaga: 1\nDodał: Mirys Ryszard\n\nKomentarz: Opinie pracodawców, analiza dziennika praktyk, frekwencja",
+            "value": "6"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Religia",
+    "semester": [
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Wiedza o społeczeństwie",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 1996469,
+            "info": "Kategoria: praca na lekcji\nData: 2024-10-08 (wt.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: tak\nWaga: 1\nDodał: Drzeń Iwona\n\nKomentarz: analiza piramidy Maslowa",
+            "value": "4"
+          },
+          {
+            "id": 2780999,
+            "info": "Kategoria: praca na lekcji\nData: 2024-10-17 (czw.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: tak\nWaga: 1\nDodał: Drzeń Iwona\n\nKomentarz: role społeczne",
+            "value": "5"
+          },
+          {
+            "id": 6001771,
+            "info": "Kategoria: projekt edukacyjny\nData: 2024-11-21 (czw.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: tak\nWaga: 3\nDodał: Drzeń Iwona\n\nKomentarz: Czym jest dla mnie wolność?",
+            "value": "1"
+          },
+          {
+            "id": 6505166,
+            "info": "Kategoria: kartkówka\nData: 2024-11-27 (śr.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: tak\nWaga: 3\nDodał: Drzeń Iwona\n\nKomentarz: wydarzenia - polityka, gospodarka",
+            "value": "6"
+          },
+          {
+            "id": 10965006,
+            "info": "Kategoria: kartkówka\nData: 2025-01-13 (pon.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: tak\nWaga: 3\nDodał: Drzeń Iwona\n\nKomentarz: trójpodział władzy",
+            "value": "5"
+          }
+        ],
+        "tempAverage": null,
+        "average": 4
+      },
+      {
+        "grades": [
+          {
+            "id": 12368120,
+            "info": "Kategoria: śródroczna\nData: 2025-01-22 (śr.)\nNauczyciel: Drzeń Iwona\nLicz do średniej: nie\nDodał: Drzeń Iwona\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      {
+        "grades": [
+          {
+            "id": 13396794,
+            "info": "Ocena: brak zadania\nKategoria: projekt edukacyjny\nData: 2025-02-07 (pt.)\nNauczyciel: Drzeń Iwona\nDodał: Drzeń Iwona\n\nKomentarz: tworzenie programów partii politycznych oraz ich omówienie i prezentacja",
+            "value": "bz"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Wychowanie fizyczne",
+    "semester": [
+      {
+        "grades": [
+          {
+            "id": 367036,
+            "info": "Kategoria: sprawdzian\nData: 2024-09-17 (wt.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 1\nDodał: Beta Aleksander\n\nKomentarz: Bieg 300m",
+            "value": "4"
+          },
+          {
+            "id": 1461278,
+            "info": "Kategoria: systematyczność\nData: 2024-10-02 (śr.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 3\nDodał: Beta Aleksander\n\nKomentarz: Wrzesień ",
+            "value": "2"
+          },
+          {
+            "id": 2481806,
+            "info": "Kategoria: sprawdzian\nData: 2024-10-15 (wt.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 1\nDodał: Beta Aleksander\n\nKomentarz: Skok z miejsca ",
+            "value": "4"
+          },
+          {
+            "id": 4405937,
+            "info": "Kategoria: systematyczność\nData: 2024-11-05 (wt.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 3\nDodał: Beta Aleksander\n",
+            "value": "1"
+          },
+          {
+            "id": 12057303,
+            "info": "Kategoria: aktywność\nData: 2024-12-02 (pon.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 5\nDodał: Beta Aleksander\n",
+            "value": "1"
+          },
+          {
+            "id": 7492592,
+            "info": "Kategoria: systematyczność\nData: 2024-12-03 (wt.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 3\nDodał: Beta Aleksander\n\nKomentarz: Frekwencja listopad ",
+            "value": "1"
+          }
+        ],
+        "tempAverage": null,
+        "average": 1
+      },
+      {
+        "grades": [
+          {
+            "id": 12174348,
+            "info": "Kategoria: śródroczna\nData: 2025-01-21 (wt.)\nNauczyciel: Beta Aleksander\nLicz do średniej: nie\nDodał: Beta Aleksander\n",
+            "value": "1"
+          }
+        ],
+        "tempAverage": 5,
+        "average": null
+      },
+      {
+        "grades": [
+          {
+            "id": 13188517,
+            "info": "Kategoria: sprawdzian\nData: 2025-02-03 (pon.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 1\nDodał: Matulski Tomasz\n\nKomentarz: kosz - dwutakt",
+            "value": "5"
+          },
+          {
+            "id": 13283439,
+            "info": "Kategoria: systematyczność\nData: 2025-02-05 (śr.)\nNauczyciel: Beta Aleksander\nLicz do średniej: tak\nWaga: 3\nDodał: Tomaszewski Tomasz\n",
+            "value": "4"
+          }
+        ],
+        "tempAverage": null,
+        "average": null
+      },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  },
+  {
+    "name": "Zajęcia z wychowawcą",
+    "semester": [
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null },
+      { "grades": [], "tempAverage": null, "average": null }
+    ],
+    "tempAverage": null,
+    "average": null
+  }
+]

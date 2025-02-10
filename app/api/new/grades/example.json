@@ -1,0 +1,50 @@
+[
+  { "name": "Biologia", "semesters": [["5", "4", "3"], ["4"], [], []] },
+  { "name": "Chemia", "semesters": [["5", "3", "5"], ["4"], [], []] },
+  {
+    "name": "Dodatkowy język angielski zawodowy",
+    "semesters": [[], [], [], []]
+  },
+  { "name": "Doradztwo zawodowe", "semesters": [[], [], [], []] },
+  { "name": "Fizyka", "semesters": [["3", "5", "3"], ["3"], [], []] },
+  { "name": "Geografia", "semesters": [["4", "5", "3"], ["4"], [], []] },
+  { "name": "Historia", "semesters": [["5", "5", "2"], ["3"], [], []] },
+  { "name": "Informatyka", "semesters": [["1", "5", "5"], ["5"], [], []] },
+  {
+    "name": "Język angielski",
+    "semesters": [["4", "3", "4", "5", "5"], ["4"], ["5", "+", "5", "5"], []]
+  },
+  { "name": "Język niemiecki", "semesters": [["5", "4"], ["4"], [], []] },
+  {
+    "name": "Język polski",
+    "semesters": [["nb", "5", "3", "3"], ["3"], [], []]
+  },
+  {
+    "name": "M10 Programowanie aplikacji mobilnych",
+    "semesters": [["6", "6", "5", "5"], ["6"], ["bz", "bz"], []]
+  },
+  {
+    "name": "M11 Zaawansowane aplikacje webowe",
+    "semesters": [["5", "5", "5"], ["5"], [], []]
+  },
+  {
+    "name": "M12 Testowanie i dokumentowanie aplikacji",
+    "semesters": [["nb", "nb", "6", "nb", "6", "5", "6"], ["6"], [], []]
+  },
+  {
+    "name": "M9 Programowanie obiektowe",
+    "semesters": [["5", "6", "6", "1", "6", "6", "6"], ["6"], [], []]
+  },
+  { "name": "Matematyka", "semesters": [["2", "4", "4"], ["3"], ["2"], []] },
+  { "name": "Praktyka zawodowa", "semesters": [[], [], ["6"], []] },
+  { "name": "Religia", "semesters": [[], [], [], []] },
+  {
+    "name": "Wiedza o społeczeństwie",
+    "semesters": [["4", "5", "1", "6", "5"], ["4"], ["bz"], []]
+  },
+  {
+    "name": "Wychowanie fizyczne",
+    "semesters": [["4", "2", "4", "1", "1", "1"], ["1"], ["5", "4"], []]
+  },
+  { "name": "Zajęcia z wychowawcą", "semesters": [[], [], [], []] }
+]
